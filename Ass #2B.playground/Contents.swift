@@ -1,6 +1,6 @@
 
 
-//  Created by Adam.G 
+//  Created by fawaz mezher
 // Sept-27-2018
 //  This code calculates the area and the perimeter based on the 
 
