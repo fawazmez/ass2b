@@ -56,20 +56,4 @@ class ViewController : UIViewController {
     @objc func calculateAreaAndPerimeter() {
         // calculate the area and perimeter
         
-        let seconds : Float =  Float(secondsTextField.text!)!
-        
-        
-        let height = 100 - (1/2) * 9.81 * (seconds * seconds)
-        
-        heightLabel.text = "The height is: \(height) cm^2."
-        
-    }
-    
-    // this is for when code is moved to Xcode, the Status bar will be removed
-    override var prefersStatusBarHidden: Bool {
-        return true
-    }
-}
-
-// need to also comment this out to make work in Xcode
-PlaygroundPage.current.liveView = ViewController()
+        let seconds
