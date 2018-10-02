@@ -2,7 +2,7 @@
 
 //  Created by fawaz mezher
 // Sept-27-2018
-//  This code calculates the area and the perimeter based on the 
+//  This code calculates height
 
 import UIKit
 
